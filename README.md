@@ -12,7 +12,7 @@ This repository contains a Word Scribble game developed using JavaScript, CSS, a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/word-scribble-game.git`
+1. Clone the repository: `git clone https://github.com/imranmustafa030/Word-Scrible-Game.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Gameplay
